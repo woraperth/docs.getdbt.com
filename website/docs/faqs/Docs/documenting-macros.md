@@ -39,6 +39,8 @@ To document a custom materialization, use the previously mentioned format to det
 
 <File name='macros/properties.yml'>
 
+## Test
+
 ```yaml
 version: 2
 
